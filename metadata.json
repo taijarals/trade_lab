@@ -1,0 +1,6 @@
+{
+  "name": "Laboratório de Estratégias Cripto",
+  "description": "Simule, otimize e analise estratégias de trading de criptomoedas em reais com dados da Foxbit e inteligência artificial do Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
